@@ -1,8 +1,8 @@
 {
   "name": "employees",
   "version": "0.1.0",
-  "homepage": "https://wwghst.github.io/employeesApp",
-  "private": true,
+  "homepage": "https://wwghst.github.io/emloyeesApp/",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",
