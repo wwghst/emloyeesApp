@@ -1,0 +1,19 @@
+.app-info {
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    backdrop-filter: blur(25px);
+    border-radius: 4px;
+    color: #fff;
+}
+
+.app-info-header {
+    display: flex;
+    gap: 20px;
+}
+
+.logo {
+    width: 45px;
+    height: 45px;
+    filter: invert(1);
+}
