@@ -1,18 +1,26 @@
 .app-info {
     display: flex;
     flex-direction: column;
-    padding: 25px;
+    padding: 20px;
     border-radius: 4px;
     color: #fff;
 }
 
 .app-info-header {
     display: flex;
-    gap: 20px;
+    gap: 15px;
 }
 
 .logo {
     width: 45px;
     height: 45px;
     filter: invert(1);
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 25px;
 }
