@@ -1,5 +1,12 @@
 .app {
   margin: 0px auto;
   max-width: 1000px;
-  height: 91vh;
+}
+
+.bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100%;
 }

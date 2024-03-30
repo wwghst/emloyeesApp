@@ -1,7 +1,6 @@
 .search-panel {
     margin-top: 30px;
     padding: 25px;
-    backdrop-filter: blur(25px);
     border-radius: 4px;
     color: #fff;
 }
