@@ -13,7 +13,6 @@
     "web-vitals": "^3.3.2"
   },
   "scripts": {
-    "deploy": "gulp build && gh-pages -d dist",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
