@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/emloyeesApp/static/css/main.d44fd48a.css",
+    "main.css": "/emloyeesApp/static/css/main.b4aadd2e.css",
     "main.js": "/emloyeesApp/static/js/main.2764df1d.js",
     "static/media/bg.jpg": "/emloyeesApp/static/media/bg.1d3ec962a7e719e101fa.jpg",
     "index.html": "/emloyeesApp/index.html",
-    "main.d44fd48a.css.map": "/emloyeesApp/static/css/main.d44fd48a.css.map",
+    "main.b4aadd2e.css.map": "/emloyeesApp/static/css/main.b4aadd2e.css.map",
     "main.2764df1d.js.map": "/emloyeesApp/static/js/main.2764df1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.d44fd48a.css",
+    "static/css/main.b4aadd2e.css",
     "static/js/main.2764df1d.js"
   ]
 }
